@@ -1,3 +1,10 @@
+# CASA data exports (Hamilton Thorne IVOS II)
+*.csv
+*.xlsx
+*.tsv
+*.DBS
+*.DBT
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
