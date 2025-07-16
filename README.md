@@ -28,4 +28,4 @@ These are typically **tab-separated (.tsv)** ASCII files exported from the IVOS 
 Install with:
 
 ```bash
-pip install pandas seaborn
+pip install pandas
